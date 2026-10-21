@@ -1,6 +1,9 @@
 # Tracking-Finger-App-Via-WEB
 # ✋ Hitung Jari: 3 atau 5
 
+Muhammad Fajri Jumadil (F1G125041)
+Kelas A & C
+
 Aplikasi web untuk mengidentifikasi jumlah jari (**3 atau 5**) langsung dari kamera. Dibuat dengan model klasifikasi gambar dari [Teachable Machine](https://teachablemachine.withgoogle.com/) dan dijalankan di browser memakai TensorFlow.js. Semua proses berjalan di perangkat pengguna, tidak ada gambar yang dikirim ke server.
 
 
