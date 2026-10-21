@@ -3,7 +3,6 @@
 
 Aplikasi web untuk mengidentifikasi jumlah jari (**3 atau 5**) langsung dari kamera. Dibuat dengan model klasifikasi gambar dari [Teachable Machine](https://teachablemachine.withgoogle.com/) dan dijalankan di browser memakai TensorFlow.js. Semua proses berjalan di perangkat pengguna, tidak ada gambar yang dikirim ke server.
 
-🔗 **Demo:** https://USERNAME.github.io/NAMA-REPO/
 
 ## Fitur
 
